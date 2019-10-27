@@ -1,0 +1,16 @@
+{
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-10-28 05:17:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2019-10-28 05:18:32 +0900",
+      "minecraft:plains": "2019-10-28 05:15:14 +0900"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}
