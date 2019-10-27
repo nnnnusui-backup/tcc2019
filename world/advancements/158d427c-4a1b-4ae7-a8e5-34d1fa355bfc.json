@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2019-10-27 21:52:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2019-10-27 06:02:30 +0900"
@@ -314,7 +320,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "potato": "2019-10-27 21:29:49 +0900",
-      "rotten_flesh": "2019-10-27 21:29:12 +0900"
+      "rotten_flesh": "2019-10-27 21:29:12 +0900",
+      "dried_kelp": "2019-10-27 21:55:22 +0900"
     },
     "done": false
   },
@@ -333,6 +340,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-10-27 06:48:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-10-27 22:06:26 +0900"
     },
     "done": true
   },
@@ -519,6 +532,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-10-27 06:44:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2019-10-27 22:02:12 +0900"
     },
     "done": true
   },
@@ -935,6 +954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2019-10-27 22:06:26 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2019-10-27 07:09:05 +0900"
@@ -1004,6 +1029,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2019-10-27 07:00:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2019-10-27 22:02:12 +0900"
     },
     "done": true
   },
@@ -1079,6 +1110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2019-10-27 21:55:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-10-27 09:41:07 +0900"
@@ -1088,6 +1125,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2019-10-27 20:28:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_the_recipe": "2019-10-27 21:52:29 +0900"
     },
     "done": true
   },
@@ -1166,6 +1209,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-10-27 06:06:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2019-10-27 21:55:42 +0900"
     },
     "done": true
   },
@@ -1464,6 +1513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2019-10-27 21:55:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2019-10-27 06:03:38 +0900"
@@ -1593,6 +1648,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-10-27 20:47:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2019-10-27 22:06:26 +0900"
     },
     "done": true
   },
