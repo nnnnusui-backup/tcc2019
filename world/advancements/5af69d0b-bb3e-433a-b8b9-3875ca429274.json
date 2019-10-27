@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-10-28 06:43:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-10-28 04:25:31 +0900"
@@ -304,6 +310,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-10-28 01:46:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-10-28 06:26:07 +0900"
     },
     "done": true
   },
@@ -782,6 +794,12 @@
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_at_least_9_slime_ball": "2019-10-28 02:56:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-10-28 06:26:07 +0900"
     },
     "done": true
   },
@@ -1379,6 +1397,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2019-10-28 01:51:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2019-10-28 06:43:00 +0900"
     },
     "done": true
   },
