@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-10-27 23:12:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-10-27 05:03:02 +0900"
@@ -617,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2019-10-27 23:12:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2019-10-23 02:21:26 +0900"
@@ -632,6 +644,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2019-10-27 22:05:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2019-10-27 23:15:52 +0900"
     },
     "done": true
   },
@@ -1073,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2019-10-27 23:14:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2019-10-23 02:21:26 +0900"
@@ -1190,6 +1214,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-10-27 03:55:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2019-10-27 23:13:27 +0900"
     },
     "done": true
   },
@@ -1787,6 +1817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2019-10-27 23:13:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-10-23 02:33:51 +0900"
@@ -2147,6 +2183,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2019-10-27 23:15:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-10-27 05:35:39 +0900"
@@ -2180,6 +2222,12 @@
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-10-27 04:32:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2019-10-27 23:14:48 +0900"
     },
     "done": true
   },
@@ -2264,6 +2312,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-10-27 04:32:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2019-10-27 23:23:50 +0900"
     },
     "done": true
   },
