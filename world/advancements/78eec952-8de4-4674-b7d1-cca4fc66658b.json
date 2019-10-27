@@ -761,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2019-10-27 22:50:47 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2019-10-27 03:51:13 +0900"
@@ -818,6 +824,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-10-26 05:17:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2019-10-27 22:50:47 +0900"
     },
     "done": true
   },
@@ -1052,6 +1064,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-10-23 02:21:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2019-10-27 22:50:47 +0900"
     },
     "done": true
   },
@@ -1449,6 +1467,7 @@
     "criteria": {
       "cooked_porkchop": "2019-10-27 04:33:47 +0900",
       "cooked_mutton": "2019-10-27 05:03:10 +0900",
+      "baked_potato": "2019-10-27 22:37:29 +0900",
       "cooked_cod": "2019-10-27 22:09:58 +0900",
       "bread": "2019-10-27 04:12:10 +0900",
       "rotten_flesh": "2019-10-26 05:01:36 +0900",
