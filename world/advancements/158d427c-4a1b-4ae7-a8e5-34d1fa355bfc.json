@@ -311,6 +311,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "potato": "2019-10-27 21:29:49 +0900",
+      "rotten_flesh": "2019-10-27 21:29:12 +0900"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-10-27 06:12:45 +0900"
@@ -332,6 +339,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-10-27 07:48:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2019-10-27 21:39:26 +0900"
     },
     "done": true
   },
@@ -630,6 +643,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2019-10-27 21:29:12 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-10-27 06:00:35 +0900"
@@ -711,6 +730,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2019-10-27 06:04:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-10-27 21:36:01 +0900"
     },
     "done": true
   },
@@ -994,6 +1019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-10-27 21:36:01 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2019-10-27 07:14:15 +0900"
@@ -1114,6 +1145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2019-10-27 21:39:26 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2019-10-27 06:09:24 +0900"
@@ -1177,6 +1214,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-10-27 07:30:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2019-10-27 21:39:26 +0900"
     },
     "done": true
   },
@@ -1249,6 +1292,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2019-10-27 07:09:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-10-27 21:36:01 +0900"
     },
     "done": true
   },
