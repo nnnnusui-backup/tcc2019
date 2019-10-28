@@ -1143,6 +1143,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2019-10-26 05:07:28 +0900",
       "minecraft:taiga": "2019-10-27 05:15:31 +0900",
+      "minecraft:desert_hills": "2019-10-28 15:39:54 +0900",
       "minecraft:deep_cold_ocean": "2019-10-26 05:26:13 +0900",
       "minecraft:taiga_hills": "2019-10-27 05:15:44 +0900",
       "minecraft:desert": "2019-10-27 03:40:50 +0900",
@@ -1641,6 +1642,7 @@
     "criteria": {
       "cooked_porkchop": "2019-10-27 04:33:47 +0900",
       "cooked_mutton": "2019-10-27 05:03:10 +0900",
+      "cooked_beef": "2019-10-28 15:44:47 +0900",
       "baked_potato": "2019-10-27 22:37:29 +0900",
       "cooked_cod": "2019-10-27 22:09:58 +0900",
       "bread": "2019-10-27 04:12:10 +0900",
