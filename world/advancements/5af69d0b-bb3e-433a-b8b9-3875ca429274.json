@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2019-10-30 07:05:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-10-30 04:17:39 +0900"
@@ -346,6 +352,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-10-28 01:48:29 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-10-30 06:42:35 +0900"
     },
     "done": true
   },
@@ -616,6 +628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2019-10-30 07:05:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-10-28 01:48:29 +0900"
@@ -706,6 +724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-10-30 06:43:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2019-10-28 02:04:10 +0900"
@@ -766,6 +790,7 @@
       "minecraft:spider": "2019-10-28 02:41:18 +0900",
       "minecraft:creeper": "2019-10-28 06:01:59 +0900",
       "minecraft:slime": "2019-10-28 02:55:56 +0900",
+      "minecraft:phantom": "2019-10-30 07:02:28 +0900",
       "minecraft:enderman": "2019-10-28 02:38:44 +0900",
       "minecraft:zombie": "2019-10-28 01:59:56 +0900",
       "minecraft:drowned": "2019-10-28 04:05:32 +0900",
@@ -923,6 +948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2019-10-30 06:42:35 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-10-28 05:25:50 +0900"
@@ -1013,6 +1044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-10-30 06:43:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2019-10-28 04:36:23 +0900"
@@ -1040,6 +1077,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-10-28 06:01:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2019-10-30 07:05:44 +0900"
     },
     "done": true
   },
@@ -1259,6 +1302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-10-30 06:43:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-10-28 01:46:50 +0900"
@@ -1331,6 +1380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2019-10-30 07:05:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2019-10-28 02:04:10 +0900"
@@ -1385,6 +1440,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2019-10-30 07:04:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-10-28 01:48:29 +0900"
@@ -1400,6 +1461,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-10-28 02:21:39 +0900",
+      "minecraft:desert": "2019-10-30 07:09:20 +0900",
       "minecraft:deep_frozen_ocean": "2019-10-30 06:14:37 +0900",
       "minecraft:beach": "2019-10-28 01:42:42 +0900",
       "minecraft:dark_forest": "2019-10-30 06:15:03 +0900",
@@ -1540,6 +1602,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2019-10-30 06:42:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-10-28 02:57:39 +0900"
@@ -1567,6 +1635,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-10-28 05:25:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2019-10-30 06:42:35 +0900"
     },
     "done": true
   },
