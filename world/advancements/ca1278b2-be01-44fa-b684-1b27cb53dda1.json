@@ -797,6 +797,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-10-24 21:02:14 +0900",
+      "minecraft:magma_cube": "2019-10-30 19:41:29 +0900",
       "minecraft:spider": "2019-10-24 20:49:17 +0900",
       "minecraft:zombie": "2019-10-24 20:46:45 +0900",
       "minecraft:drowned": "2019-10-24 21:24:00 +0900"
