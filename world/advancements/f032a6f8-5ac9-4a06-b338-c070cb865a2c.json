@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-10-30 21:21:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2019-10-28 18:47:23 +0900"
@@ -116,6 +122,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-10-28 18:46:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2019-10-30 21:21:05 +0900"
     },
     "done": true
   },
@@ -215,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-10-30 21:12:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-10-28 18:46:49 +0900"
@@ -255,6 +273,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-10-28 18:54:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_the_recipe": "2019-10-30 21:19:33 +0900"
     },
     "done": true
   },
@@ -300,6 +324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_the_recipe": "2019-10-30 21:20:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2019-10-24 18:53:05 +0900"
@@ -321,6 +351,18 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-10-28 18:45:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-10-30 21:21:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2019-10-30 21:36:41 +0900"
     },
     "done": true
   },
@@ -456,6 +498,13 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2019-10-30 21:36:15 +0900",
+      "iron_helmet": "2019-10-30 21:36:15 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-10-28 18:54:21 +0900"
@@ -493,6 +542,7 @@
       "minecraft:birch_forest": "2019-10-30 21:11:30 +0900",
       "minecraft:beach": "2019-10-24 18:50:26 +0900",
       "minecraft:river": "2019-10-24 18:50:22 +0900",
+      "minecraft:birch_forest_hills": "2019-10-30 21:12:15 +0900",
       "minecraft:plains": "2019-10-24 18:49:41 +0900"
     },
     "done": false
@@ -641,6 +691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2019-10-30 21:21:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-10-28 18:47:35 +0900"
@@ -668,6 +724,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-10-28 18:46:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2019-10-30 21:21:05 +0900"
     },
     "done": true
   },
@@ -720,6 +782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-10-30 21:21:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2019-10-28 19:06:53 +0900"
@@ -735,6 +803,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2019-10-28 18:47:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2019-10-30 21:21:05 +0900"
     },
     "done": true
   },
@@ -777,6 +851,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-10-28 18:54:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2019-10-30 21:21:05 +0900"
     },
     "done": true
   },
