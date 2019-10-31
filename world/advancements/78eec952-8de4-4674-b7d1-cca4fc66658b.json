@@ -1938,6 +1938,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2019-11-01 01:52:20 +0900",
       "minecraft:rabbit": "2019-10-28 15:54:35 +0900"
     },
     "done": false
